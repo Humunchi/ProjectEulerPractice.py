@@ -7,4 +7,4 @@ while j <= 4000000:
                 total += j
         i, j = j, i + j
 
-print total
+print (total)
