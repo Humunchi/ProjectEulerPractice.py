@@ -1,3 +1,5 @@
+#find sun of even fibonachi numbers not exceeding 4 million (4613732)
+
 total = 0
 
 i, j = 1, 0
